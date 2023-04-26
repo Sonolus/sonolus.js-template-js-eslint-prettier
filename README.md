@@ -45,6 +45,14 @@ Run in project directory:
 npm run lint
 ```
 
+## Fix Linting Issues
+
+Run in project directory:
+
+```
+npm run lint-fix
+```
+
 ## Build
 
 Run in project directory:

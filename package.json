@@ -11,12 +11,12 @@
     "build": "sonolus-cli --build"
   },
   "devDependencies": {
-    "eslint": "^8.39.0",
+    "eslint": "^8.42.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.8",
     "prettier-plugin-organize-imports": "^3.2.2",
-    "sonolus-core": "~7.0.0-beta.0",
-    "sonolus.js": "~9.0.0-beta.0"
+    "sonolus-core": "~7.0.0",
+    "sonolus.js": "~9.0.0"
   }
 }

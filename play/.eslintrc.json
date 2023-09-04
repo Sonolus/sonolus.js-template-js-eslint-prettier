@@ -17,7 +17,6 @@
         "defineArchetypes": false,
         "defineBuckets": false,
         "defineEffect": false,
-        "defineLib": false,
         "defineOptions": false,
         "defineParticle": false,
         "defineSkin": false,

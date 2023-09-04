@@ -8,8 +8,8 @@
     "dev:play": "sonolus-cli --dev ./play/sonolus-cli.config.js",
     "dev:tutorial": "sonolus-cli --dev ./tutorial/sonolus-cli.config.js",
     "format": "prettier . --write",
-    "lint": "eslint --ext .js ./shared && eslint --ext .js ./play && eslint --ext .js ./tutorial",
-    "lint-fix": "eslint --ext .js ./shared --fix && eslint --ext .js ./play --fix && eslint --ext .js ./tutorial --fix",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix",
     "build": "sonolus-cli --build ./play/sonolus-cli.config.js && sonolus-cli --build ./tutorial/sonolus-cli.config.js"
   },
   "devDependencies": {

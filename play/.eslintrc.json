@@ -20,7 +20,7 @@
         "defineOptions": false,
         "defineParticle": false,
         "defineSkin": false,
-        "ArchetypeCallback": false,
+        "Callback": false,
         "EntityState": false,
         "HorizontalAlign": false,
         "Judgment": false,

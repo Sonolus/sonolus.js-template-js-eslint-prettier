@@ -15,7 +15,7 @@
         "defineArchetypes": false,
         "defineOptions": false,
         "defineSkin": false,
-        "ArchetypeCallback": false,
+        "Callback": false,
         "HorizontalAlign": false,
         "PrintColor": false,
         "PrintFormat": false,

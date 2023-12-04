@@ -15,7 +15,6 @@
         "Tuple": false,
         "Vec": false,
         "defineArchetypes": false,
-        "defineBuckets": false,
         "defineEffect": false,
         "defineOptions": false,
         "defineParticle": false,
@@ -30,7 +29,6 @@
         "LoopedEffectClipInstanceId": false,
         "ParticleEffectInstanceId": false,
         "ScheduledLoopedEffectClipInstanceId": false,
-        "TouchId": false,
         "audio": false,
         "background": false,
         "bpmChanges": false,
@@ -44,7 +42,6 @@
         "screen": false,
         "time": false,
         "timeScaleChanges": false,
-        "touches": false,
         "ui": false
     }
 }

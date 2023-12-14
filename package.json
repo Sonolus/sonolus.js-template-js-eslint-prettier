@@ -15,9 +15,9 @@
     "build": "sonolus-cli --build ./play && sonolus-cli --build ./watch && sonolus-cli --build ./preview && sonolus-cli --build ./tutorial"
   },
   "devDependencies": {
-    "eslint": "^8.54.0",
-    "eslint-config-prettier": "^9.0.0",
-    "prettier": "^3.1.0",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.1.1",
     "prettier-plugin-organize-imports": "^3.2.4",
     "sonolus-core": "~7.4.0",
     "sonolus.js": "~9.3.0"

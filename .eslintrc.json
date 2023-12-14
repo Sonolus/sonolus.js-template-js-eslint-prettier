@@ -7,5 +7,14 @@
     "extends": [
         "eslint:recommended",
         "prettier"
-    ]
+    ],
+    "rules": {
+        "no-restricted-properties": [
+            "error",
+            {
+                "object": "debug",
+                "message": "Debug calls should be removed from production."
+            }
+        ]
+    }
 }

@@ -1,5 +1,7 @@
 **/*.*
 
+!eslint.config.js
+
 !shared/src/**/*.*
 
 !play/sonolus-cli.config.js

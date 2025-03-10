@@ -1,6 +1,6 @@
 {
   "name": "sonolus.js-template-js-eslint-prettier",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "description": "Sonolus.js Template (JS + ESLint + Prettier)",
   "private": true,
   "type": "module",

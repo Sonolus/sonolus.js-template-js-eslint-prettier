@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
--   [Node.js](https://nodejs.org) (16+)
+-   [Node.js](https://nodejs.org)
 
 ## Recommended Setup
 

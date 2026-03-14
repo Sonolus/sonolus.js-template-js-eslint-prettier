@@ -1,7 +1,7 @@
-# Sonolus.js Template (JS + ESLint + Prettier)
+sekai# Sonolus.js Template (JS + ESLint + Prettier)
 
 ## Prerequisites
-
+sekai
 -   [Node.js](https://nodejs.org)
 
 ## Recommended Setup
@@ -13,7 +13,7 @@
 
 To get this template, run (change `my-project` to desired name):
 
-```
+```sekai
 npx degit Sonolus/sonolus.js-template-js-eslint-prettier my-project
 ```
 
